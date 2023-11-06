@@ -1,15 +1,16 @@
 {
   "background_color": "#ffffff",
-  "description": "Method Draw Vector Editor",
+  "description": "DrumKit:PRO",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Method Draw Vector Editor",
+  "name": "DrumKit:PRO",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Method Draw Vector Editor",
+  "short_name": "DrumKit:PRO",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
+    "entertainment",
     "productivity"
   ],
   "screenshots": [
@@ -48,7 +49,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Method Draw Vector Editor",
+      "name": "DrumKit:PRO",
       "url": "",
       "description": ""
     }
